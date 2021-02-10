@@ -1,0 +1,38 @@
+.content {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+.time-section {
+  max-width: 760px;
+  padding: 20px;
+  padding-bottom: 30px;
+  clear: both;
+  background: rgb(194, 194, 230);
+  margin: 8px auto;
+  border-radius: 5px;
+}
+
+.year {
+  background-color: white;
+  border: 2px solid #404E6D;
+  float: left;
+  font-size: 25px;
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  margin-right: 15px;
+}
+
+.description {
+  font-size: 18px;
+  margin-top: 0px;
+  text-align: left;
+}
+
+.quotes {
+}
+
+.picture {
+  border-radius: 90%;
+}
